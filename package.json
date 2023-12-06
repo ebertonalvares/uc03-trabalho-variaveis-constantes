@@ -9,6 +9,6 @@
   "author": "Eberton Mauricio Alvares <ebertonalvares@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "prompts": "^2.4.2"
+    "readline-sync": "^1.4.10"
   }
 }
